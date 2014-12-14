@@ -1,0 +1,9 @@
+E:\13-12-2014\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.exe.config
+E:\13-12-2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.csprojResolveAssemblyReference.cache
+E:\13-12-2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.Form1.resources
+E:\13-12-2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.Properties.Resources.resources
+E:\13-12-2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.csproj.GenerateResource.Cache
+E:\13-12-2014\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.exe
+E:\13-12-2014\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.pdb
+E:\13-12-2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.exe
+E:\13-12-2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.pdb

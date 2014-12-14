@@ -1,0 +1,9 @@
+E:\13-12-2014\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe.config
+E:\13-12-2014\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe
+E:\13-12-2014\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.pdb
+E:\13-12-2014\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csprojResolveAssemblyReference.cache
+E:\13-12-2014\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.Form1.resources
+E:\13-12-2014\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.Properties.Resources.resources
+E:\13-12-2014\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csproj.GenerateResource.Cache
+E:\13-12-2014\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.exe
+E:\13-12-2014\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.pdb
